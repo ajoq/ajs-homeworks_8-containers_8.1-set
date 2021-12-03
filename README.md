@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/asvvy5er53a5teb4?svg=true)](https://ci.appveyor.com/project/ajoq/ajs-homeworks-8-containers-8-1-set)
+
 ## `Set`
 
 ### Легенда
